@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/Users/jfl/.local/share/virtualenvs/asyncio_task_already_awaited_bug-issue165--xlU0TcaF/bin/python",
+    "python.linting.pylintEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true
+}

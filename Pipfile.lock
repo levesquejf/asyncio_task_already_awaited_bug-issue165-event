@@ -1,0 +1,26 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "2837aaedccf4797d2ca98c7870b4866857f64b76701be613b47c36d15fd40680"
+        },
+        "pipfile-spec": 6,
+        "requires": {},
+        "sources": [
+            {
+                "name": "pypi",
+                "url": "https://pypi.python.org/simple",
+                "verify_ssl": true
+            }
+        ]
+    },
+    "default": {
+        "nuitka": {
+            "hashes": [
+                "sha256:71bb8632b1505fabf595f8358e172588837cc065e3d94a29d18cfe9ea0df3740"
+            ],
+            "index": "pypi",
+            "version": "==0.6.4"
+        }
+    },
+    "develop": {}
+}
